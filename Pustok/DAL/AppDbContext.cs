@@ -11,6 +11,5 @@ namespace Pustok.DAL
         
         public DbSet<Book> Books { get; set; }
         public DbSet<BookCategory> BookCategories { get; set; }
-        public DbSet<Slider> Sliders { get; set; }
     }
 }
