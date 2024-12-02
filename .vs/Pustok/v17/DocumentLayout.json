@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\I Novbe\\source\\repos\\Pustok\\",
+  "WorkspaceRootPath": "C:\\Users\\ulvir\\OneDrive\\Desktop\\PustokSite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B1FB6E2-A195-40C7-A1AC-F4E52564AFE9}|Pustok\\Pustok.csproj|c:\\users\\i novbe\\source\\repos\\pustok\\pustok\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B1FB6E2-A195-40C7-A1AC-F4E52564AFE9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9B1FB6E2-A195-40C7-A1AC-F4E52564AFE9}|Pustok\\Pustok.csproj|c:\\users\\ulvir\\onedrive\\desktop\\pustoksite\\pustok\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B1FB6E2-A195-40C7-A1AC-F4E52564AFE9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B1FB6E2-A195-40C7-A1AC-F4E52564AFE9}|Pustok\\Pustok.csproj|c:\\users\\i novbe\\source\\repos\\pustok\\pustok\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B1FB6E2-A195-40C7-A1AC-F4E52564AFE9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B1FB6E2-A195-40C7-A1AC-F4E52564AFE9}|Pustok\\Pustok.csproj|c:\\users\\i novbe\\source\\repos\\pustok\\pustok\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B1FB6E2-A195-40C7-A1AC-F4E52564AFE9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B1FB6E2-A195-40C7-A1AC-F4E52564AFE9}|Pustok\\Pustok.csproj|c:\\users\\ulvir\\onedrive\\desktop\\pustoksite\\pustok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1FB6E2-A195-40C7-A1AC-F4E52564AFE9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,49 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Pustok\\Pustok\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "Pustok\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Pustok\\Pustok\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "Pustok\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-28T06:51:34.063Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ulvir\\OneDrive\\Desktop\\PustokSite\\Pustok\\appsettings.json",
+              "RelativeDocumentMoniker": "Pustok\\appsettings.json",
+              "ToolTip": "C:\\Users\\ulvir\\OneDrive\\Desktop\\PustokSite\\Pustok\\appsettings.json",
+              "RelativeToolTip": "Pustok\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T11:03:14.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Pustok\\Pustok\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pustok\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Pustok\\Pustok\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "Pustok\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-28T06:39:33.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Pustok\\Pustok\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Pustok\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Pustok\\Pustok\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Pustok\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ulvir\\OneDrive\\Desktop\\PustokSite\\Pustok\\Program.cs",
+              "RelativeDocumentMoniker": "Pustok\\Program.cs",
+              "ToolTip": "C:\\Users\\ulvir\\OneDrive\\Desktop\\PustokSite\\Pustok\\Program.cs",
+              "RelativeToolTip": "Pustok\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T05:01:30.88Z",
+              "WhenOpened": "2024-12-02T11:03:02.932Z",
               "EditorCaption": ""
             }
           ]
